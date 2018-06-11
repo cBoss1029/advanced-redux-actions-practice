@@ -31,6 +31,7 @@
   * videoScale
     * if "SET_VIDEO_SCALE" should return action value
 ### Create Actions in actions/index.js
+
   * increaseCounter()
     * type = "INCREASE_COUNTER"
   * decreaseCounter()

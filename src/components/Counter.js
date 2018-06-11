@@ -1,4 +1,5 @@
 import React from 'react';
+import {connect} from 'react-redux'
 
 function Counter(props) {
   return (
@@ -7,4 +8,5 @@ function Counter(props) {
       </div>
   );
 }
+
 export default Counter;
